@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "id": 2,
+      "quote": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    {
+      "id": 3,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    }
+  ]
+}
